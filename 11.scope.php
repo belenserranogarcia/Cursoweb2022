@@ -40,7 +40,7 @@ $numero = mostrarNumero(); //Asigno $numero =10;
 echo $numero; //10
 
 #RESUMEN:
-//1. Por parámetro para entrar la variable en la función
+//1. Por parámetro para entrar la variable en la función.
 //2. Con el return para sacar la variable de la función
 
 ?> 
